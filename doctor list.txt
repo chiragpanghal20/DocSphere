@@ -1,0 +1,27 @@
+General physician:
+Dr. Rahul Sehgal    10 years
+Dr. Arjun Mehta     8 years
+
+
+Gynecologist:
+Dr. Nisha Verma     5 years
+Dr. Sneha Kapoor    10 years
+
+Dermatologist:
+Dr. Priya Malhotra   5 years
+Dr. Rajeev Kapoor    6 years
+   
+Pediatricians:
+Dr. Anjali Sharma    4 years
+Dr. Arvind Kumar     10 years
+
+Neurologist:
+Dr. Amit Sood        9 years
+Dr. Vikram Rao       6 years
+
+
+Gastroenterologist:
+Dr. Rakesh Gupta      10 years
+Dr. Sanjay Mehta      9 years
+
+
